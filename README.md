@@ -9,7 +9,7 @@ A multiple-line graph was also created that shows the total weekly fares for eac
 
 ### Resources used
 - Data Source : city_data.csv, ride_data.csv
-- Software : Python 3.7.9, Jupyter Notebook 6.1.4, Pandas 1.1.3, Numpy 1.17.0, Anaconda 1.7.2
+- Software : Python 3.7.9, Jupyter Notebook 6.1.4, Pandas 1.1.3, Numpy 1.17.0, Anaconda 1.7.2, Matplotlib 3.3.2
 
 ## Results
 ### Summary DataFrame of ride-sharing data:
