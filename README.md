@@ -86,4 +86,4 @@ Incentivize the urban drivers to encourage them to serve the suburban and rural 
 Adjust the fare per ride so that people living in the rural and suburban are encouraged to use pyber rideshare.
 
 3. The chart shows fluctuations in urban areas over time.\
-In order to flatten the curve, to meet demands while optimizing revenue high, design a dynamic fare per ride depending upon the volume of service requests, and avaliable drivers in urban cities.
+In order to flatten the curve, to meet demands while optimizing revenue, design a dynamic fare per ride depending upon the volume of service requests, and avaliable drivers in urban cities.
